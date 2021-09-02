@@ -1,4 +1,4 @@
-### Hi there 👋   
+### Greetings! 👋   
 
  - 💻   **Front-end / Mobile Application Develover**    
 
