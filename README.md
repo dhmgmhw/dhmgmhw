@@ -1,8 +1,8 @@
-### Greetings! 👋   
+### Greetings  
 
- - 💻   **Front-end / Mobile Application Develover**    
+ - 💻   **iOS Develover**    
 
- - 🇰🇷  **I'm in South Korea!**
+ - 🇰🇷  **South Korea**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhmgmhw&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
