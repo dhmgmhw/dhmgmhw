@@ -1,6 +1,6 @@
 ### Greetings  
 
- - 💻   **iOS Develover**    
+ - 📱   **iOS Develover**    
 
  - 🇰🇷  **South Korea**
 
