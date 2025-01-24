@@ -1,4 +1,1 @@
-### Greetings  
-
- - 🇰🇷  **South Korea**
 
